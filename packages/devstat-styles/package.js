@@ -6,5 +6,5 @@ Package.describe({
 Package.onUse(api => {
   api.use(['fourseven:scss'])
 
-  api.addFiles('lib/stylesheets/main.scss')
+  api.addFiles('lib/stylesheets/main.scss', ['client'])
 })
