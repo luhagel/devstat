@@ -1,0 +1,18 @@
+{
+  "public": {
+    "title": "CODE",
+    "tagline": "Student Portal",
+    "faviconUrl": "/packages/code-static/lib/static/favicon.ico",
+    "secretCode": "???",
+    "secretStuff": "!!!",
+    "showWiki": true
+  },
+  "developmentServerIp": "http://localhost:3000/",
+  "oauth": {
+    "google": {
+      "clientId": "YOURCLIENTID",
+      "secret": "YOURSECRET"
+    }
+  },
+  "debug": false
+}
